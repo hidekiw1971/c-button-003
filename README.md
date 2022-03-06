@@ -5,8 +5,9 @@
 - 模擬案件で使用。
 
 ## イメージ画像
-
-- xxx
+<img width="438" alt="image" src="https://user-images.githubusercontent.com/99580997/156926210-8d7f499a-f606-4c22-a575-f37c02a63638.png">
+<img width="786" alt="image" src="https://user-images.githubusercontent.com/99580997/156926229-4ff40001-9cdf-4144-8f3c-3c3e927ebc29.png">
+<img width="1453" alt="image" src="https://user-images.githubusercontent.com/99580997/156926249-9af0ee34-5038-467e-bc58-a70ca90ef1a0.png">
 
 ## portfolio url:
 
